@@ -1,52 +1,12 @@
 
-.row > * {
+.border-better {
     border: 1px solid black;
 }
 
-.row1 {
-    width: 700px;
+.small{
+    height: 200px;
 }
 
-.row2 {
-    width: 300px;
+.big{
+    height: 400px;;
 }
-
-.col1 > * {
-    width: 149px;
-    height: 150px;
-}
-
-.col2 > * {
-    width: 149px;
-    height: 150px;
-}
-
-.row3 {
-    width: 1183px;
-}
-
-.col3 {
-    width: 600px;
-    height: 150px;
-}
-
-.col4 {
-    width: 150px;
-    height: 150px; 
-}
-
-.col5 {
-    width: 290px;
-    height: 150px; 
-}
-
-.col6 {
-    width: 300px;
-    height: 150px; 
-}
-
-.col7 {
-    width: 140px;
-    height: 150px; 
-}
-
